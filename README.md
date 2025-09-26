@@ -45,7 +45,7 @@ Visualización: Plotly, Seaborn, Matplotlib.
 
 la fuente del codigo de encriptacion 
 link : https://codepen.io/AshlynD/pen/ZYEryje
-la fuene del codigo de desconexion del sisema 
+la fuente del codigo de desconexion del sisema 
 link : https://codepen.io/Colt4D5/pen/LEYmgxK
 Seguridad: Encriptación de contraseñas y acceso con token cifrado (simulado visualmente en la intro).
 
